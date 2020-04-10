@@ -1,0 +1,30 @@
+p {
+  margin: 0;
+  padding: 0;
+  font-family: menlo;
+  font-size: 12px;
+}
+
+p.block {
+  display: inline-block;
+  font-family: menlo;
+  font-size: 11px;
+  background-color: black;
+  color: white;
+}
+
+a {
+  margin: 0;
+  padding: 0;
+  font-family: menlo;
+  font-size: 12px;
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  font-family: menlo;
+  font-size: 12px;
+  color: black;
+  text-decoration: underline;
+}
